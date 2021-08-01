@@ -1,0 +1,11 @@
+.button {
+  color: #fff;
+  width: 100%;
+  margin-bottom: 20px;
+  &__large {
+    height: 46px;
+  }
+  span {
+    color: #fff;
+  }
+}
